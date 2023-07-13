@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+*.class
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+=======
+/wikigraph/.idea/
+/wikigraph/target/
+/todo/target/
+/todo/.idea/
+/fireworks/.idea/
+/fireworks/target/
+/effective-quickcheck/quickcheck/.idea/
+/effective-quickcheck/quickcheck/target/
+/effective-codecs/codecs/.idea/
+/effective-codecs/codecs/target/
+/democracy/.idea/
+/democracy/target/
+/.idea/
+/wikigraph/enwiki-dataset/
+>>>>>>> afd8f47 (Initial commit)
