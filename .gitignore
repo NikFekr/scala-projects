@@ -5,16 +5,22 @@
 hs_err_pid*
 
 /wikigraph/.idea/
+/wikigraph/assignment.sbt/
 /wikigraph/target/
 /todo/target/
 /todo/.idea/
+/todo/assignment.sbt/
 /fireworks/.idea/
+/fireworks/assignment.sbt/
 /fireworks/target/
 /effective-quickcheck/quickcheck/.idea/
+/effective-quickcheck/quickcheck/assignment.sbt/
 /effective-quickcheck/quickcheck/target/
 /effective-codecs/codecs/.idea/
+/effective-codecs/codecs/assignment.sbt/
 /effective-codecs/codecs/target/
 /democracy/.idea/
+/democracy/assignment.sbt/
 /democracy/target/
 /.idea/
 /wikigraph/enwiki-dataset/
