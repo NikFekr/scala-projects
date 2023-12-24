@@ -25,3 +25,15 @@ hs_err_pid*
 /.idea/
 /wikigraph/enwiki-dataset/
 
+/democracy/.bsp/
+/democracy/project/
+/effective-codecs/codecs/.bsp/
+/effective-codecs/codecs/project/
+/effective-quickcheck/quickcheck/.bsp/
+/effective-quickcheck/quickcheck/project/
+/fireworks/.bsp/
+/fireworks/project/
+/todo/.bsp/
+/todo/project/
+/wikigraph/.bsp/
+/wikigraph/project/
